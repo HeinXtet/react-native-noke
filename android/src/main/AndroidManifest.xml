@@ -1,4 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.reactnativenoke">
-
+  package="com.reactnativenoke">
+  <application>
+    <activity android:name=".activity.NokeActivity" />
+  </application>
 </manifest>
